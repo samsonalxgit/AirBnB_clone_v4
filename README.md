@@ -154,8 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Samson Manie: Github sasmonalxgit twitter:https://twitter.com/AWodajie
-Mulugeta Tesfaw: Github mulugetatesfaw
-Second part of Airbnb: Joann Vuong
+Samson Manie: Github: https://github.com/samsonalxgit twitter:https://twitter.com/AWodajie
+
+Mulugeta Tesfaw: Github:https://github.com/mulugetatesfaw
+
 ## License
 Public Domain. No copy write protection. 
